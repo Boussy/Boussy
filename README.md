@@ -27,7 +27,7 @@ Ce repository est là pour vous accompagner, que ce soit pour comprendre un conc
 
 ### 💌 Contact
 - Vous pouvez me joindre à : **[BatMail](mailto:bferdjan@student.42.fr)**  
-- Ou sur **[LinkedIn](https://fr.linkedin.com/in/bousseyna-ferdjani-546a1a309)** *(à ajouter si tu veux)*.
+- Ou sur **[LinkedIn](https://fr.linkedin.com/in/bousseyna-ferdjani-546a1a309)**
 
 ---
 
