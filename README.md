@@ -32,3 +32,6 @@ Ce repository est là pour vous accompagner, que ce soit pour comprendre un conc
 ---
 
 Merci d'être passé sur mon profil 🌟. J'espère que mes ressources pourront vous être utiles ! Bonne chance à tous 💪.
+
+
+[![HitCount](https://hits.dwyl.com/Boussy/Boussy.svg?style=flat)](http://hits.dwyl.com/Boussy/Boussy)
