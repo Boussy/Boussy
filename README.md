@@ -1,37 +1,44 @@
-# 🌟 Bienvenue sur mon GitHub !
+<!-- bannière Batman stylée -->
+<p align="center">
+  <img src="https://i.imgur.com/n6b9fC3.png" width="400" alt="Batgirl Banner"/>
+</p>
 
-<div align="center">
-  <img src="https://github.com/Boussy/assets/blob/main/banniereBatamanpink.jpg" alt="Bannière" />
-</div>
-
-Bonjour à tous 👋,  
-Je m'appelle **Bousseyna**, étudiante à **[42 Paris](https://www.42.fr/)**. Ce GitHub a été créé avec une idée simple : **aider les étudiants en difficulté**, comme je l'étais moi-même à mes débuts dans cette incroyable aventure.
-
----
-
-### ✨ Mon objectif
-🔍 Ce repository est conçu pour :
-- Proposer des **cours** clairs et structurés.  
-- Fournir des **explications détaillées** pour chaque projet du tronc commun de 42.  
-- Partager des ressources pour réussir les **examens**.  
-
-Ceci est le **début d'un projet ambitieux** 🚀. Je continuerai à enrichir ce GitHub avec des informations utiles, étape par étape.
+<h1 align="center">Salut, moi c’est <span style="color:#e75480">BatDev</span> 🦇</h1>
+<h3 align="center">👩‍💻 Dev by day, vigilante by night</h3>
 
 ---
 
-### 🌱 Quelques mots pour les étudiants
-> "L'apprentissage à 42 peut sembler difficile au début, mais rappelez-vous que chaque ligne de code est une victoire."  
-Ce repository est là pour vous accompagner, que ce soit pour comprendre un concept complexe ou pour vous aider à surmonter un examen.
+### 💼 À propos de moi
+
+🌸 Développeuse web passionnée, avec une touche d’ombre et de rose.  
+🦇 J’adore le clean code, les interfaces élégantes, et… Batman.  
+💌 Toujours prête à construire des projets utiles, beaux et badass.
 
 ---
 
-### 💌 Contact
-- Vous pouvez me joindre par mail : **[BatMail](mailto:bferdjan@student.42.fr)**  
-- Ou sur **[LinkedIn](https://fr.linkedin.com/in/bousseyna-ferdjani-546a1a309)**
+### 🌈 Ce que j’aime
+
+- 🧁 UI girly et minimaliste / ou tout le contraire
+- 🦸‍♀️ Créer des apps utiles pour les gens
+- 🔍 Refactoriser jusqu’à ce que tout soit *parfaitement propre*
 
 ---
 
-Merci d'être passé sur mon profil 🌟. J'espère que mes ressources pourront vous être utiles ! Bonne chance à tous 💪.
+### 📫 Me contacter dans le ciel nocturne
 
+[![Gmail](https://img.shields.io/badge/-Email-e75480?style=flat&logo=gmail&logoColor=white)](mailto:bousseynapro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/bousseyna-ferdjani-546a1a309/))
 
-[![HitCount](https://hits.dwyl.com/Boussy/Boussy.svg?style=flat)](http://hits.dwyl.com/Boussy/Boussy)
+---
+
+### 🦇 Ma devise
+
+> _"It’s not who I am underneath, but what I do that defines me."_  
+> <div align="right">— Batman</div>
+
+---
+
+<!-- Signature girly -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=E75480&center=true&vCenter=true&width=435&lines=Merci+de+visiter+mon+profil+!;Feel+free+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
