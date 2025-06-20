@@ -1,8 +1,4 @@
 <!-- bannière Batman stylée -->
-<p align="center">
-  <img src="assets/baniereblackpinkbatman.jpg" width="800" alt="Batgirl Banner"/>
-</p>
-
 <h1 align="center">Salut, moi c’est <span style="color:#e75480">Bousseyna ou Batman pour les intimes</span> 🦇</h1>
 <h3 align="center">👩‍💻 God forbid a girl secretly be Batman and a Dev at the same time</h3>
 
