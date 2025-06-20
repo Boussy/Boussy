@@ -3,8 +3,8 @@
   <img src="https://i.imgur.com/n6b9fC3.png" width="400" alt="Batgirl Banner"/>
 </p>
 
-<h1 align="center">Salut, moi c’est <span style="color:#e75480">BatDev</span> 🦇</h1>
-<h3 align="center">👩‍💻 Dev by day, vigilante by night</h3>
+<h1 align="center">Salut, moi c’est <span style="color:#e75480">Bousseyna, ou Batman pour les intimes</span> 🦇</h1>
+<h3 align="center">👩‍💻 God forbid a girl secretly be Batman and a Dev at the same time</h3>
 
 ---
 
