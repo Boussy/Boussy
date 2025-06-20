@@ -27,7 +27,7 @@
 ### 📫 Me contacter dans le ciel nocturne
 
 [![Gmail](https://img.shields.io/badge/-Email-e75480?style=flat&logo=gmail&logoColor=white)](mailto:bousseynapro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bousseyna-ferdjani-546a1a309/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bousseyna-ferdjani-546a1a309/)
 
 ---
 
