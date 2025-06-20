@@ -40,5 +40,5 @@
 
 <!-- Signature girly -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=E75480&center=true&vCenter=true&width=435&lines=Merci+de+visiter+mon+profil+!;Feel+free+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=E75480&center=true&vCenter=true&width=435&lines=Merci+d'avoir+visiter+mon+profil+!;Feel+free+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
