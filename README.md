@@ -35,11 +35,11 @@
   <picture>
     <!-- Mode sombre -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&hide=jupyter%20notebook">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussy&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark&hide=jupyter%20notebook">
     <!-- Mode clair -->
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default&hide=jupyter%20notebook">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussy&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default&hide=jupyter%20notebook">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussy&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5">
   </picture>
 </p>
 
