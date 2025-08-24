@@ -3,18 +3,20 @@ on:
   schedule: [{ cron: "0 3 * * *" }]
   workflow_dispatch:
 
+permissions:
+  contents: write   # <— indispensable pour committer le SVG
+
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # Langages SEULS dans un SVG dédié :
       - name: Generate languages chart
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/languages.svg
-          hide-keys: general, contributions, repositories  # on garde seulement "languages"
-          colors: dark-dimmed        # thèmes dispo ou palette custom
+          hide-keys: general, contributions, repositories
+          colors: dark-dimmed
           animated-language-chart: true
           max-languages: 12
         env:
