@@ -31,9 +31,9 @@
 
 👉 [**www.bousseynaf-portfolio.com**](https://www.bousseynaf-portfolio.com/)
 
-### 🧩 Langages utilisés
 <p align="center">
-  <img src="images/languages.svg" alt="Répartition des langages">
+  <img alt="Top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussy&layout=donut&langs_count=8&theme=github_dark">
 </p>
 
 ---
